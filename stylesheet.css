@@ -1,0 +1,28 @@
+#header{
+	z-index: 1;
+	position: fixed;
+	width: 97.5%;
+	margin-top: -20px;
+	height: 5%;
+	background-color: #668284;
+	margin-bottom: 10px;
+}
+
+#name {
+	font-family:Verdana;
+	font-size:24px;
+	text-align:left;
+}
+
+
+.left {
+	float:left;
+}
+
+.right {
+	float:right;
+}
+
+#footer{
+	clear:both;
+}
