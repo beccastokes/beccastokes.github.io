@@ -29,7 +29,6 @@ div {
 
 .left {
 	float:left;
-	/*height:400px;*/
 	width:19%;
 	background-color:#81DAF5;
 	clear:left;
@@ -39,7 +38,6 @@ div {
 
 .right {
 	float:right;
-	/*height:400px;*/
 	width:80%;
 	background-color:#D8D8D8;
 	clear:right;
@@ -68,4 +66,8 @@ div {
 p {
 	padding-left:5px;
 	padding-top:5px;
+}
+
+#photo {
+	text-align:center;
 }
