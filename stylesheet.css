@@ -12,16 +12,14 @@ div {
 	position: fixed;
 	width: 100%;
 	margin-top: -20px;
-	height: 10%;
 	background-color: #030772;
-	margin-bottom: 10px;
 	position:fixed;
 	border-radius:5px;
 }
 
 #title {
 	font-family:Courier;
-	font-size:2em;
+	font-size:1.5em;
 	text-align:center;
 	color:#ffffff;
 }
